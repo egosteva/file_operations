@@ -1,0 +1,44 @@
+{
+  "name": "IntelliJ IDEA",
+  "version": "2022.3.2",
+  "buildNumber": "223.8617.56",
+  "productVendor": "JetBrains",
+  "launch": {
+    "os": "Windows",
+    "arch": "amd64",
+    "launcherPath": "bin/idea64.exe"
+  },
+  "bundledPlugins": [
+    "JUnit",
+    "Lombook Plugin",
+    "PerforceDirectPlugin",
+    "Subversion",
+    "TestNG-J",
+    "XPathView",
+    "XSLT-Debugger",
+    "com.android.tools.design",
+    "com.android.tools.idea.smali",
+    "com.intellij",
+    "com.intellij.copyright",
+    "org.toml.lang",
+    "tanvd.grazi",
+    "training"
+  ],
+  "modules": [
+    "com.intellij.modules.all",
+    "com.intellij.modules.coverage",
+    "com.intellij.modules.json"
+  ],
+  "fileExtensions": [
+    "*.gitignore",
+    "*.gradle",
+    "*.groovy",
+    "*.gy",
+    "*.har",
+    "*.heapprofd",
+    "*.hgignore",
+    "*.hlp",
+    "*.jar",
+    "*.java"
+  ]
+}
